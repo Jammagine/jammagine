@@ -1,31 +1,55 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=JAMMAGINE&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&desc=Indie%20game%20studio!&descSize=20&descAlign=50&descAlignY=80&textBg=false&theme=radical"  />
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/1082045414343192586/1512382573484179599/Untitled1547_20260604230809.png?ex=6a23e388&is=6a229208&hm=14ead57b014c0efc1d7e1b94a793107caf4112eedc940bee091e17a70e50436b&"  />
 </div>
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
 ###
 
-<h1 align="left">Jammagine</h1>
+<h1 align="center">Jammy</h1>
 
 ###
 
-<p align="left">I'm James, founder of Jammagine. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did learn some stuff while making that game.</p>
+<p align="left">My name is James and I'm from Hawaii</p>
 
 ###
 
-<h2 align="left">What I do?</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">I use Godot for my game engine. I don't use Roblox anymore for creating stuff anymore. I've made some projects on Godot like this snake game. My first project's were on Roblox. I think they're pretty idea's but it gave me a foundation enough to move to Godot.</p>
+<p align="left">I'm currently learning Rust.<br><br>My primary programming languages are GDScript and Rust.<br>My secondary programming languages are Python.<br>Languages like Javascript and Lua are used on a blue moon or I no longer work with.</p>
 
 ###
 
-<h2 align="left">Where'd I start?</h2>
-
-###
-
-<p align="left">I started in 2016 when I found Roblox. I saw what people were creating on Roblox and started creating games for myself. I never released them publicly in the first couple years but three years later I made some games public. I started doing more projects and started making frameworks. Roblox gave me a solid foundation to start so I switched to Godot. I switched to Godot because It was more stable. Godot is a solid choice for indie developers. This was at the time when I switched my operating system to Linux, Roblox wasn't natively on Linux and when Roblox announce age chat.</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+</div>
 
 ###
